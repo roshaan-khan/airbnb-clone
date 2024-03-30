@@ -3,12 +3,6 @@
 
 **Node version 14.x**
 
-### Cloning the repository
-
-```shell
-git clone https://github.com/AntonioErdeljac/next13-airbnb-clone.git
-```
-
 ### Install packages
 
 ```shell
